@@ -1,0 +1,15 @@
+Which site has the largest successful launches?
+KSC LC-39A (41.7%)
+
+Which site has the highest launch success rate?
+CCAFS SLC-40 (42.9% success)
+
+Which payload range(s) has the highest launch success rate?
+2K-4K or 3K-4K
+
+Which payload range(s) has the lowest launch success rate?
+6K-8K
+
+Which F9 Booster version (v1.0, v1.1, FT, B4, B5, etc.) has the highest
+launch success rate?
+FT
