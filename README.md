@@ -84,9 +84,13 @@ C[Convert that HTML to BeautifulSoup object] --> D[Fetch the required data using
 * I get that the decision tree is best for this as it gives better accuracy than others.
 
 ## Results
-* In data analysis I found a key point that the success ratio is increasing year by year.
+* In data analysis I found a key point that the success rate is increasing year by year.
 * I’ve found through the dashboard that the 6K-8K payload range has the lowest success rates.
-* We can see that using Grid Search we can easily get the best parameters for the model and also check the best model by using one by one and better here (For this dataset) is Decision Tree.
+* We can see that using Grid Search we can easily get the best parameters for the model and also check the best model by using one by one and better here (For this dataset) is Decision Tree as it is providing the highest accuracy.
+* KSC LC-39A has the largest successful launches.
+* CCAFS SLC-40 has the highest launch success rate.
+* The payload range of 2K-4K has the highest launch success rate.
+* F9 booster version, FT has the highest launch success rate.
 
 For a detailed review, you can visit this <a href="./Spacex%20data%20analysis%20and%20modeling%20report.pdf">link</a>.
 
