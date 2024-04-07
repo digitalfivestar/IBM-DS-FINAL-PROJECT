@@ -13,7 +13,7 @@ In this project, I take the role of a data scientist working for a new rocket co
 
 ## Methodology
 > Executive Summary
-* Data collection methodology:
+* Data collection
 * I collect the data using SpaceX API and by scraping Wikipedia pages.
 * Perform data wrangling
 * O clean the data and remove anomalies from it
